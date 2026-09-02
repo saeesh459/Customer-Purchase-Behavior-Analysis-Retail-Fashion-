@@ -1,7 +1,0 @@
-# Microsoft Excel temporary files
-~$*.xlsx
-*.tmp
-
-# Operating system files
-.DS_Store
-Thumbs.db
